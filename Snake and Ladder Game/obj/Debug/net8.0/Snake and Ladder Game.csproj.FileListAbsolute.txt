@@ -1,0 +1,14 @@
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\bin\Debug\net8.0\Snake and Ladder Game.exe
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\bin\Debug\net8.0\Snake and Ladder Game.deps.json
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\bin\Debug\net8.0\Snake and Ladder Game.runtimeconfig.json
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\bin\Debug\net8.0\Snake and Ladder Game.dll
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\bin\Debug\net8.0\Snake and Ladder Game.pdb
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\obj\Debug\net8.0\Snake and Ladder Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\obj\Debug\net8.0\Snake and Ladder Game.AssemblyInfoInputs.cache
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\obj\Debug\net8.0\Snake and Ladder Game.AssemblyInfo.cs
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\obj\Debug\net8.0\Snake and Ladder Game.csproj.CoreCompileInputs.cache
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\obj\Debug\net8.0\Snake and Ladder Game.dll
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\obj\Debug\net8.0\refint\Snake and Ladder Game.dll
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\obj\Debug\net8.0\Snake and Ladder Game.pdb
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\obj\Debug\net8.0\Snake and Ladder Game.genruntimeconfig.cache
+D:\Studies\UOC FOS studies\1st sem-lev-3\CS 3101\Assignment\1\Snake and Ladder Game\obj\Debug\net8.0\ref\Snake and Ladder Game.dll
